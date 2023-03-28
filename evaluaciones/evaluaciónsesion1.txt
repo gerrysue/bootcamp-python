@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum vitae</title>
+</head>
+<body>
+    <!--"center" esta actualmente obsoleto, de preferencia debo usar css más adelante-->
+    <center><h1>Homer J. Simpson</h1></center>
+    <hr>
+    <br>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et elit enim. Suspendisse urna risus, hendrerit in elit vitae, lobortis tristique nisi. Nulla mattis ultricies est sollicitudin cursus. Donec in rhoncus urna, vel facilisis diam. Duis tempus convallis nibh, non varius sapien ullamcorper sed. Duis eu pellentesque sem, sit amet vehicula nisi. Duis ut neque a dolor suscipit porta ut quis ante. Aenean et massa a justo placerat tincidunt sed quis massa. Aenean placerat orci nisi, vitae consectetur dui porttitor in.</p>
+    <br>
+    <hr>
+        <p><strong>NOMBRE</strong> Homer j. Simpsonz</p>
+        <p><strong>DIRECCIÓN</strong> Avenida Siempreviva 742</p>
+        <p><strong>FECHA DE NACIMIENTO:</strong> 20 / marzo /1966 </p>
+        <p><strong>TELEFONO:</strong> +99 987654321</p>
+        <p><strong>DNI:</strong> 12549231-k</p>
+        <p><strong>EMAIL:</strong> amantedelacomida53@aol.com</p>
+
+    <br>
+    <h2>ANTECEDENTES ACADEMICOS</h2>
+    <br>
+    <ul>
+        <li>Instituto de Tecnología de Springfield</li>
+    </ul>
+    <br>
+    <h2>ANTECEDENTES LABORALES</h2>
+    <ul>
+        <li>Inspector de seguridad, sector 7-G. Planta núclear de Springfield</li>
+        <li>imitador de Krusty</li>
+        <li>conductor de camión de transporte</li>
+        <li>Asistente administrativo en  Kwik-E-Mart</li>
+        <li>Vocalista en banda Sadgasm</li>
+    </ul>
+    <h2>LOGROS</h2>
+    <ul>
+        <li><i>Miembros de oficial de Stonecutters</i></li>
+        <li><i>Miembro de equipo de astronautas participante de lanzamiento de cohete espacial</i></li>
+    </ul>
+<br>
+<hr>
+<!--"center" esta actualmente obsoleto, de preferencia debo usar css más adelante-->
+    <center><p>Para más información acceda a mi linkedin <a href="https://www.linkedin.com/in/homer7/">click aquí</a></p></center>
+    <hr>
+
+</body>
+</html>
